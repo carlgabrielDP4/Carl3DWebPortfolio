@@ -1,7 +1,9 @@
 
-#ThreeJS Landing Page Experiment by Carl with the help of Youtube Tutorial from JavaScript Mastery
+# ThreeJS Landing Page Experiment by Carl with the help of Youtube Tutorial from JavaScript Mastery
 ![Portfolio Preview](src/assets/carlRM.png)
 
-Experimented with React, TailwindCSS and ThreeJS with the help of a YouTube tutorial from "JavaScript Mastery" to help me create this Landing page.
+Experimented with React, TailwindCSS and ThreeJS with the help of a YouTube tutorial from "JavaScript Mastery" to help me create this Landing page. 
 
-Credit to JavaSctipt Mastery on YouTube : [YT Link To Main Portfolio](https://www.youtube.com/watch?v=0fYi8SGA20k)
+Try spinning the 3D Model yourself!
+
+Credit to JavaSctipt Mastery on YouTube : [YT Link To Original Portfolio by JS Mastery](https://www.youtube.com/watch?v=0fYi8SGA20k)
